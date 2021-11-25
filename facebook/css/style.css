@@ -1,0 +1,92 @@
+body{
+
+background-image: url('../img/bg.JPG');
+background-repeat: repeat-x;
+font-family: Helvetica, Arial, sans-serif;
+font-size: 19px;
+line-height: 15px;
+
+}
+
+a{
+
+ color: #365899; 
+
+}
+
+small {
+
+	font-size: 12px;
+
+}
+
+select {
+
+	width: 60px;
+	height: 30px;
+	font-size: 13px;
+
+
+
+}
+.container{
+
+	max-width: 1050;
+
+/*  Header */
+
+}
+.ınputGırıs{
+
+width: 145px;
+height: 22px;
+
+}
+
+.btnGırıs{
+
+color: #fff;
+width: 65px;
+height: 22px;
+border: 1px solid #555555;
+background-color: #4267B2;
+padding: 0 3px;
+font-size: 12px;
+font-weight: bolder;
+
+}
+
+/*  Container */
+
+.aciklama1 {
+
+color: #0e385f; 
+font-size: 20px;
+font-weight: bold;
+line-height:29px;
+margin-top: 40px; 
+width: 450px;
+word-spacing: -1px;
+}
+
+.btnKaydol{
+
+	background-color: #5F9B4C;
+	font-size: 19px;
+	width: 195px;
+	height: 40px;
+	border: 1px solid #777777;
+}
+
+/*  Footer */
+
+footer{
+
+margin-top: 130px;
+
+
+}
+
+footer a {
+	color: #365899;
+}

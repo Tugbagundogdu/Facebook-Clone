@@ -1,0 +1,336 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"te",
+				"text-muted"
+			],
+			[
+				"Ma",
+				"margin-top\tproperty"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"for",
+				"form-row"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"li",
+				"line-height\tproperty"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"se",
+				"select\tTag"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"form",
+				"form-row"
+			],
+			[
+				"tex",
+				"text"
+			],
+			[
+				"T",
+				"text"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"fo",
+				"form-group"
+			],
+			[
+				"w",
+				"word-spacing\tproperty"
+			],
+			[
+				"mar",
+				"margin-top\tproperty"
+			],
+			[
+				"b",
+				"bolder\tfont-weight"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"backg",
+				"background-color\tproperty"
+			],
+			[
+				"text",
+				"text-white"
+			],
+			[
+				"navb",
+				"navbar-toggle"
+			],
+			[
+				"back",
+				"background-image\tproperty"
+			],
+			[
+				"nav",
+				"navbar"
+			],
+			[
+				"na",
+				"navbar"
+			],
+			[
+				"he",
+				"header\tTag"
+			],
+			[
+				"alert",
+				"alert-link"
+			],
+			[
+				"ale",
+				"alert-primary"
+			],
+			[
+				"drop",
+				"dropdownMenu"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"dro",
+				"dropdownMenu"
+			],
+			[
+				"bt",
+				"btn-secondary"
+			],
+			[
+				"btn-",
+				"btn-secondary"
+			],
+			[
+				"btn",
+				"btn-group"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"bg-",
+				"bg-danger"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"git",
+				"Set Syntax: Git Log"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Lenovo/Desktop/facebook/css/index.html",
+		"/C/Users/Lenovo/Desktop/facebook/index.html",
+		"/C/Users/Lenovo/Desktop/facebook/img/bg.JPG",
+		"/C/Users/Lenovo/Desktop/facebook/css/style",
+		"/C/Users/Lenovo/Desktop/index.html.html",
+		"/C/Users/Lenovo/Desktop/Yeni Sıkıştırılmış Klasör.zip",
+		"/C/Users/Lenovo/Desktop/facebook.zip",
+		"/C/Users/Lenovo/Desktop/Bootstrap/Badges.html",
+		"/C/Users/Lenovo/Desktop/Bootstrap/alert-uyarilar.html",
+		"/C/Users/Lenovo/Desktop/Bootstrap/acilir.buton.html",
+		"/C/Users/Lenovo/Desktop/Bootstrap/index.html",
+		"/C/Users/Lenovo/Desktop/Bootstrap/js/acilir.buton.html,",
+		"/C/Users/Lenovo/Desktop/Bootstrap/js/buton.gruplari.html",
+		"/C/Users/Lenovo/Desktop/Bootstrap/butonlar.html",
+		"/C/Users/Lenovo/Desktop/Bootstrap/js/popper.min.js",
+		"/C/Users/Lenovo/Desktop/Bootstrap/js/jquery.js"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 172.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
